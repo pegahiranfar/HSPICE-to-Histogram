@@ -1,0 +1,6 @@
+numpy
+python>=3.8
+matplotlib
+scipy
+os
+re
