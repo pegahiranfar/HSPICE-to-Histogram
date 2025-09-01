@@ -1,6 +1,6 @@
 # HSPICE-to-Histogram
 
-This tool is designed to extract numerical results (e.g., Monte Carlo simulation results, power traces, ...) from HSPICE simulation output files (`.lis`) and visualize them as **histograms**.
+This code is designed to extract numerical results (e.g., Monte Carlo simulation results, power traces, ...) from HSPICE simulation output files (`.lis`) and visualize them as **histograms**.
 It is especially useful for analyzing parameters such as power, current, and delay.
 
 ---
